@@ -1,6 +1,3 @@
-[![Test]
-[![Publish]
-
 # Tetris for Flutter
 
 [Tetris](https://harddrop.com/wiki/Gameplay_overview) implementation
