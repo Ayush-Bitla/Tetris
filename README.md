@@ -78,7 +78,7 @@ The `build()` method constructs the game UI:
 - Score counter
 - Control buttons
 
-[![gameplay](assets/code/Tetris.mp4)]
+![gameplay](assets/code/Tetris.gif)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
